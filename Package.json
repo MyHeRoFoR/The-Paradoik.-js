@@ -1,10 +1,10 @@
 {
-  "name": "The Paradoix, js",
-  "description": "wathcing paradoix forum",
-  "version": "1.0.0",
-  "main": "The Paradoix. js",
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
   "scripts": {
-    "start": "The Paradoix. js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
