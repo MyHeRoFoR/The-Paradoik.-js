@@ -1,0 +1,13 @@
+{
+  "name": "The Paradoix, js",
+  "description": "wathcing paradoix forum",
+  "version": "1.0.0",
+  "main": "The Paradoix. js",
+  "scripts": {
+    "start": "The Paradoix. js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
